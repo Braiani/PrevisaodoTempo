@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Previsão do Tempo</string>
+    <string name="titulo">Título</string>
+    <string name="conteudo">[conteudo]</string>
+    <string name="pesqHint">Digite a cidade...</string>
+    <string name="btnPesquisar">Pesquisar</string>
+</resources>
