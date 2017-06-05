@@ -47,4 +47,9 @@ public class Forecast {
     void setCondicao(int condicao) {
         this.condicao = condicao;
     }
+
+    @Override
+    public String toString() {
+        return cidade + " " + estado + " " + pais + " " + temperatura + " " + condicao + " ";
+    }
 }

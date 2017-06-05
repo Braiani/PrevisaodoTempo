@@ -6,6 +6,7 @@ import android.util.Log;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+
 /**
  * Created by Braiani on 27/05/2017.
  */
@@ -47,4 +48,6 @@ public class Utils {
             return null;
         }
     }
+
+
 }
